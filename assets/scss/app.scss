@@ -49,3 +49,8 @@
 
 @include motion-ui-transitions;
 @include motion-ui-animations;
+
+// Custom SCSS files
+
+@import 'components/header';
+@import 'components/general';
